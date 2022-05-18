@@ -1,0 +1,6 @@
+ua\yarynych\sms\controllers\StudentController.class
+ua\yarynych\sms\service\impl\StudentServiceImpl.class
+ua\yarynych\sms\SmsApplication.class
+ua\yarynych\sms\repository\StudentRepository.class
+ua\yarynych\sms\service\StudentService.class
+ua\yarynych\sms\entity\Student.class
